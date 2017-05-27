@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "531881971938",
+    "firebase_url": "https://sdatest-d780e.firebaseio.com",
+    "project_id": "sdatest-d780e",
+    "storage_bucket": "sdatest-d780e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531881971938:android:ee0449740d993910",
+        "android_client_info": {
+          "package_name": "com.example.slawek.sdacademyaplikacja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531881971938-tj93ep74g1gcllkd1345njmifpvifek4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQO5XfedV0TeREu0VUu231Z1X8zOHe7mU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
